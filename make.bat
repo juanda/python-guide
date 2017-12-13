@@ -1,4 +1,5 @@
 
+oooooooo
 oooo
 if "%1" == "" goto help
 
