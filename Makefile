@@ -1,4 +1,4 @@
-.PHONY: build
+iiiiiii.PHONY: build
 build: html
 
 # this pattern rule lets you run "make build" (or any other target
