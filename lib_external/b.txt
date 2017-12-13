@@ -1,0 +1,2 @@
+El contenido del fichero b.txt
+version 1.1

@@ -1,0 +1,3 @@
+El contenido del fichero e.txt
+modificacion propia
+version 1.kaka
